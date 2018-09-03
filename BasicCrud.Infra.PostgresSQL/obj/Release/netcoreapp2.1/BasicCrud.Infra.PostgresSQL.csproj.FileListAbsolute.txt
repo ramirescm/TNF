@@ -1,0 +1,16 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Infra.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Infra.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\bin\Release\netcoreapp2.1\BasicCrud.Dto.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.csprojAssemblyReference.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.csproj.CopyComplete
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\BasicCrud.Infra.PostgresSQL\obj\Release\netcoreapp2.1\BasicCrud.Infra.PostgresSQL.pdb

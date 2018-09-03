@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Localization\SourceFiles\BasicCrud-en.json" />
+    <None Remove="Localization\SourceFiles\BasicCrud-pt-BR.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\SourceFiles\BasicCrud-en.json" />
+    <EmbeddedResource Include="Localization\SourceFiles\BasicCrud-pt-BR.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tnf.Domain" Version="2.2.1.20602" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Application.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Application.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Application.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Infra.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Infra.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\bin\Release\netstandard2.0\BasicCrud.Dto.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.csprojAssemblyReference.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.csproj.CopyComplete
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Application\obj\Release\netstandard2.0\BasicCrud.Application.pdb

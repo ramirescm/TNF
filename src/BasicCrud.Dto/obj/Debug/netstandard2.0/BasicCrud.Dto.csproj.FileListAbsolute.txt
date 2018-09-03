@@ -1,0 +1,8 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\bin\Debug\netstandard2.0\BasicCrud.Dto.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\bin\Debug\netstandard2.0\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\bin\Debug\netstandard2.0\BasicCrud.Dto.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\obj\Debug\netstandard2.0\BasicCrud.Dto.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\obj\Debug\netstandard2.0\BasicCrud.Dto.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\obj\Debug\netstandard2.0\BasicCrud.Dto.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\obj\Debug\netstandard2.0\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Dto\obj\Debug\netstandard2.0\BasicCrud.Dto.pdb

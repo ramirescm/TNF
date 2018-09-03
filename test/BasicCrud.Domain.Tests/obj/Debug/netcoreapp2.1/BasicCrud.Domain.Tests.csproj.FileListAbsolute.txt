@@ -1,0 +1,17 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.runtimeconfig.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.runtimeconfig.dev.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\bin\Debug\netcoreapp2.1\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.csprojAssemblyReference.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.csproj.CopyComplete
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\test\BasicCrud.Domain.Tests\obj\Debug\netcoreapp2.1\BasicCrud.Domain.Tests.pdb

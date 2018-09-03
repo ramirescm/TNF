@@ -1,0 +1,16 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.csprojAssemblyReference.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Infra.Oracle.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Infra.Oracle.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Infra.Oracle.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Infra.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Infra.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\bin\Debug\netstandard2.0\BasicCrud.Dto.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.csproj.CopyComplete
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.Oracle\obj\Debug\netstandard2.0\BasicCrud.Infra.Oracle.pdb

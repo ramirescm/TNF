@@ -1,0 +1,16 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Infra.SqlServer.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Infra.SqlServer.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Infra.SqlServer.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Infra.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Infra.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\bin\Release\netstandard2.0\BasicCrud.Dto.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.csprojAssemblyReference.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.csproj.CopyComplete
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqlServer\obj\Release\netstandard2.0\BasicCrud.Infra.SqlServer.pdb

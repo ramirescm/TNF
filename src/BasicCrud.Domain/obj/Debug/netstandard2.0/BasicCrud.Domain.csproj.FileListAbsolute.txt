@@ -1,0 +1,9 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\obj\Debug\netstandard2.0\BasicCrud.Domain.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\obj\Debug\netstandard2.0\BasicCrud.Domain.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\obj\Debug\netstandard2.0\BasicCrud.Domain.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\bin\Debug\netstandard2.0\BasicCrud.Domain.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\bin\Debug\netstandard2.0\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\bin\Debug\netstandard2.0\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\obj\Debug\netstandard2.0\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\obj\Debug\netstandard2.0\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Domain\obj\Debug\netstandard2.0\BasicCrud.Domain.csprojAssemblyReference.cache

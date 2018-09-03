@@ -1,0 +1,16 @@
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Infra.SqLite.deps.json
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Infra.SqLite.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Infra.SqLite.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Domain.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Dto.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Infra.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Infra.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Domain.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\bin\Release\netstandard2.0\BasicCrud.Dto.pdb
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.csprojAssemblyReference.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.csproj.CoreCompileInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.AssemblyInfoInputs.cache
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.AssemblyInfo.cs
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.csproj.CopyComplete
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.dll
+C:\Docker-teste\Back\Projeto\ComandaAPI\API\Scenarios\BasicCrud\src\BasicCrud.Infra.SqLite\obj\Release\netstandard2.0\BasicCrud.Infra.SqLite.pdb

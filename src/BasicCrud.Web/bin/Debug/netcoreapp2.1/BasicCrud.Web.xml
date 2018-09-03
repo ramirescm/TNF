@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BasicCrud.Web</name>
+    </assembly>
+    <members>
+        <member name="T:BasicCrud.Web.Controllers.CustomerController">
+            <summary>
+            Customer API
+            </summary>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.CustomerController.GetAll(BasicCrud.Dto.Customer.CustomerRequestAllDto)">
+            <summary>
+            Get all customers
+            </summary>
+            <param name="requestDto">Request params</param>
+            <returns>List of customers</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.CustomerController.Get(System.Guid,Tnf.Dto.RequestDto)">
+            <summary>
+            Get customer
+            </summary>
+            <param name="id">Customer id</param>
+            <param name="requestDto">Request params</param>
+            <returns>Customer requested</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.CustomerController.Post(BasicCrud.Dto.Customer.CustomerDto)">
+            <summary>
+            Create a new customer
+            </summary>
+            <param name="customerDto">Customer to create</param>
+            <returns>Customer created</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.CustomerController.Put(System.Guid,BasicCrud.Dto.Customer.CustomerDto)">
+            <summary>
+            Update a customer
+            </summary>
+            <param name="id">Customer id</param>
+            <param name="customerDto">Customer content to update</param>
+            <returns>Updated customer</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.CustomerController.Delete(System.Guid)">
+            <summary>
+            Delete a customer
+            </summary>
+            <param name="id">Customer id</param>
+        </member>
+        <member name="T:BasicCrud.Web.Controllers.ProductController">
+            <summary>
+            Product API
+            </summary>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.ProductController.GetAll(BasicCrud.Dto.Product.ProductRequestAllDto)">
+            <summary>
+            Get all products
+            </summary>
+            <param name="requestDto">Request params</param>
+            <returns>List of products</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.ProductController.Get(System.Guid,Tnf.Dto.RequestDto)">
+            <summary>
+            Get product
+            </summary>
+            <param name="id">Product id</param>
+            <param name="requestDto">Request params</param>
+            <returns>Product requested</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.ProductController.Post(BasicCrud.Dto.Product.ProductDto)">
+            <summary>
+            Create a new product
+            </summary>
+            <param name="customerDto">Product to create</param>
+            <returns>Product created</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.ProductController.Put(System.Guid,BasicCrud.Dto.Product.ProductDto)">
+            <summary>
+            Update a product
+            </summary>
+            <param name="id">Product id</param>
+            <param name="customerDto">Product content to update</param>
+            <returns>Updated product</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.ProductController.Delete(System.Guid)">
+            <summary>
+            Delete a product
+            </summary>
+            <param name="id">Product id</param>
+        </member>
+        <member name="T:BasicCrud.Web.Controllers.VendaController">
+            <summary>
+            Venda API
+            </summary>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.VendaController.GetAll(BasicCrud.Dto.Venda.VendaRequestAllDto)">
+            <summary>
+            Get all Vendas
+            </summary>
+            <param name="requestDto">Request params</param>
+            <returns>List of Vendas</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.VendaController.Get(System.Guid,Tnf.Dto.RequestDto)">
+            <summary>
+            Get Venda
+            </summary>
+            <param name="id">Venda id</param>
+            <param name="requestDto">Request params</param>
+            <returns>Venda requested</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.VendaController.Post(BasicCrud.Dto.Venda.VendaDto)">
+            <summary>
+            Create a new Venda
+            </summary>
+            <param name="VendaDto">Venda to create</param>
+            <returns>Venda created</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.VendaController.Put(System.Guid,BasicCrud.Dto.Venda.VendaDto)">
+            <summary>
+            Update a Venda
+            </summary>
+            <param name="id">Venda id</param>
+            <param name="VendaDto">Venda content to update</param>
+            <returns>Updated Venda</returns>
+        </member>
+        <member name="M:BasicCrud.Web.Controllers.VendaController.Delete(System.Guid)">
+            <summary>
+            Delete a Venda
+            </summary>
+            <param name="id">Venda id</param>
+        </member>
+    </members>
+</doc>
